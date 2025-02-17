@@ -64,30 +64,22 @@ This project involves developing a comprehensive furniture e-commerce platform d
 ## Installation and Setup
 To run the project locally, follow these steps:
 
-1. Clone the repository:
+**Clone the repository**:
    ```bash
    git clone <repository-url>
 
-   Install dependencies:
+**Install dependencies**:
 
-bash
-Copy
-Edit
+ ```bash
 npm install
-Add environment variables: Create a .env.local file and add your API keys and credentials.
+- Add environment variables: Create a .env.local file and add your API keys and credentials.
 
-Run the development server:
+**Run the development server**:
 
-bash
-Copy
-Edit
+```bash
 npm run dev
-Open your browser and go to:
-
-url
-Copy
-Edit
-http://localhost:3000
+**Open your browser and go to**:
+# http://localhost:3000
 ## Conclusion
 Developing this furniture e-commerce platform provided valuable experience in utilizing modern tools like Next.js, TypeScript, and Sanity CMS. The focus was on creating a user-friendly, responsive, and scalable website, adhering to best practices. This project enhanced development skills and offered an opportunity to work on a real-world application, from initial planning to deployment.
 
