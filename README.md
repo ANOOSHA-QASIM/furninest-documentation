@@ -3,7 +3,7 @@
 ## Project Overview
 This project involves developing a comprehensive furniture e-commerce platform designed to provide users with a seamless online shopping experience. The platform offers a diverse range of high-quality furniture products, complete with detailed descriptions, images, and customer reviews to assist in informed purchasing decisions. The website is built using modern technologies such as Next.js, TypeScript, and Sanity CMS, ensuring responsiveness, scalability, and ease of content management.
 
-### Frontend GitHub Repository:
+### Hackathon GitHub Repository:
 #(https://github.com/ANOOSHA-QASIM/furninest-documentation.git)
 
 ### Live Demo:
