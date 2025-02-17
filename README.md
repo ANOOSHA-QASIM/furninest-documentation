@@ -68,5 +68,21 @@ To run the project locally, follow these steps:
    ```bash
    git clone <repository-url>
 
+ Install dependencies:
+
+```bash
+npm install
+- Add environment variables: Create a .env.local file and add your API keys and credentials.
+
+## Development Setup
+
+**Run the development server**:
+```bash
+npm run dev
+**Open your browser and go to**:
+# http://localhost:3000
+### Conclusion
+Developing this furniture e-commerce platform provided valuable experience in utilizing modern tools like Next.js, TypeScript, and Sanity CMS. The focus was on creating a user-friendly, responsive, and scalable website, adhering to best practices. This project enhanced development skills and offered an opportunity to work on a real-world application, from initial planning to deployment.
+
 
 
