@@ -61,13 +61,7 @@ This project involves developing a comprehensive furniture e-commerce platform d
 - Vercel (for deployment)
 - Thunder Client (for API testing)
 
-## Installation and Setup
-To run the project locally, follow these steps:
 
-**Clone the repository**:
-   ```bash
-   git clone <repository-url>
- 
 ## Conclusion
 Developing this furniture e-commerce platform provided valuable experience in utilizing modern tools like Next.js, TypeScript, and Sanity CMS. The focus was on creating a user-friendly, responsive, and scalable website, adhering to best practices. This project enhanced development skills and offered an opportunity to work on a real-world application, from initial planning to deployment.
 
