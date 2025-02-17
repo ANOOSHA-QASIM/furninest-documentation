@@ -70,8 +70,8 @@ To run the project locally, follow these steps:
 
 **Install dependencies**:
 
- ```bash
-npm install
+   ```bash
+   npm install
 - Add environment variables: Create a .env.local file and add your API keys and credentials.
 
 **Run the development server**:
